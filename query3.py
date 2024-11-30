@@ -3,9 +3,9 @@ import json
 import pickle
 
 #import files
-production_countries_file = '/Users/giorgiovanini/Desktop/Group Project/Dataset/production_countries_table.csv'
-movies_file = '/Users/giorgiovanini/Desktop/Group Project/Dataset/movies_table.csv'
-output_file = '/Users/giorgiovanini/Desktop/Group Project/Coding/top_5_countries.pkl'
+production_countries_file = 'paste path'
+movies_file = 'paste path'
+output_file = 'path where the pickle file will be created'
 
 #1: load production countries
 production_countries = {}
